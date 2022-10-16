@@ -1,5 +1,4 @@
 import 'package:e_commerce_app/model/product_model.dart';
-import 'package:e_commerce_app/riverpod/riverpod_management.dart';
 import 'package:flutter/material.dart';
 import 'package:grock/grock.dart';
 
